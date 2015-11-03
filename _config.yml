@@ -1,0 +1,23 @@
+name: IAMTYRRELL
+favicon: null
+layout_spectrum: 0.8137574442662299
+typography_spectrum: 0.8186439448036253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.40069719892926514
+  lightness: 0.6835465843323618
+  saturation: 0.9685600893571973
+  rhythmicContrast: 0.5754935210570693
+purpose: []
